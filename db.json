@@ -1,0 +1,7 @@
+{
+  "todos": [
+    {"id": 0, "text": "zoom meeting", "completed": false},
+    {"id": 1, "text": "exercise", "completed": false},
+    {"id": 2, "text": "dinner with girlfriend", "completed": false}
+  ]
+}
